@@ -1,0 +1,9 @@
+Quais insumos concentram mais registros de distribuição?
+
+Como a distribuição varia ao longo do tempo?
+
+Quais localidades recebem mais doses?
+
+Existem registros incompletos, duplicados ou inconsistentes?
+
+Há períodos com variações atípicas na distribuição?
